@@ -1,0 +1,198 @@
+.homepage {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-image: url(./img/donut.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.homepage .overlap-group-wrapper {
+
+  width: 1440px;
+  height: 1024px;
+
+}
+
+.overlap-group {
+  position: relative;
+  height: 1024px;
+
+}
+
+.rectangle {
+  position: absolute;
+  width: 820px;
+  height: 766px;
+  top: 131px;
+  left: 358px;
+  background-color: #d9d9d9;
+  mix-blend-mode: soft-light;
+}
+
+.img {
+  position: absolute;
+  width: 475px;
+  height: 43px;
+  top: 670px;
+  left: 487px;
+}
+
+.rectangle-2 {
+  position: absolute;
+  width: 131px;
+  height: 39px;
+  top: 771px;
+  left: 403px;
+}
+
+.homepage .text-wrapper {
+  position: absolute;
+  width: 262px;
+  top: 621px;
+  left: 403px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .div {
+  position: absolute;
+  width: 994px;
+  top: 11px;
+  left: 271px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.homepage .rectangle-3 {
+  position: absolute;
+  width: 1440px;
+  height: 83px;
+  top: 0;
+  left: 0;
+  background-color: #c399b080;
+}
+
+.homepage .what-is-infix-and {
+  position: absolute;
+  width: 692px;
+  top: 156px;
+  left: 438px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.homepage .span {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.homepage .text-wrapper-2 {
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+}
+
+.homepage .line {
+  width: 747px;
+  top: 119px;
+  left: 383px;
+  background-color: #1e1e1e;
+  position: absolute;
+  height: 2px;
+}
+
+.homepage .line-2 {
+  width: 773px;
+  top: 497px;
+  left: 390px;
+  background-color: #c399b0;
+  position: absolute;
+  height: 2px;
+}
+
+.homepage .text-wrapper-3 {
+  position: absolute;
+  width: 262px;
+  top: 511px;
+  left: 383px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .text-wrapper-4 {
+  position: absolute;
+  width: 143px;
+  top: 778px;
+  left: 397px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .text-wrapper-5 {
+  position: absolute;
+  width: 267px;
+  top: 678px;
+  left: 472px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #e7e7e7;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .rectangle-4 {
+  position: absolute;
+  width: 475px;
+  height: 43px;
+  top: 551px;
+  left: 486px;
+}
+
+.homepage .text-wrapper-6 {
+  position: absolute;
+  width: 267px;
+  top: 560px;
+  left: 472px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #e7e7e7;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
